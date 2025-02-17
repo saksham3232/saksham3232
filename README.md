@@ -4,10 +4,8 @@
 Hello! I'm *Saksham Maurya*, a passionate and dedicated developer with a strong foundation in programming, web development, and data structures. I love solving complex problems and building innovative solutions to real-world challenges. 🚀
 
 ---
-<div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham3232&label=Profile%20views&color=0e75b6&style=flat" alt="saksham3232" /> </p>
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maisakshamhoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-maurya-3feb) 

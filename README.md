@@ -3,7 +3,7 @@
 ## 👋 About Me  
 Hello! I'm *Saksham Maurya*, a passionate developer with a strong foundation in **programming, web development, and data science**. I love **solving complex problems**, building **real-world solutions**, and continuously learning to improve my skills. 🚀 
 
-## Profile Views 👁️
+## 👁️ Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham3232&label=Profile%20views&color=0e75b6&style=flat" alt="saksham3232" /> </p>
 
 ## 🌐 Socials:

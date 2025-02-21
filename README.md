@@ -32,7 +32,7 @@ Hello! I'm *Saksham Maurya*, a passionate developer with a strong foundation in 
 - **Web Development**: 🌐 HTML, CSS, JavaScript, Flask, Streamlit  
 - **Data Science & Machine Learning**: 📊 Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
 - **Data Structures and Algorithms**: 📚 Proficient in problem-solving, optimal approaches, and competitive programming  
-- **Tools & Platforms**: 🔧 VS Code, GitHub, Jupyter Notebook, CodeChef, LeetCode, GeeksforGeeks  
+- **Tools & Platforms**: 🔧 VS Code, GitHub, Jupyter Notebook, Docker, CodeChef, LeetCode, GeeksforGeeks  
 
 ---
 

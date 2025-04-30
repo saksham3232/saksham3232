@@ -1,4 +1,4 @@
-# 🌟 Saksham Maurya - Developer Portfolio 🌟
+# 🌟 Saksham Maurya - Developer Portfolio🌟
 
 ## 👋 About Me  
 Hello! I'm *Saksham Maurya*, a passionate developer with a strong foundation in **programming, web development, and data science**. I love **solving complex problems**, building **real-world solutions**, and continuously learning to improve my skills. 🚀 

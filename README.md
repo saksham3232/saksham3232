@@ -1,4 +1,4 @@
-# 🌟Saksham Maurya - Developer Portfolio🌟
+# 🌟 Saksham Maurya - Developer Portfolio🌟
 
 <h2>🏅 My LeetCode Badge Collection</h2>
 

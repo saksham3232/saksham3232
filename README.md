@@ -3,8 +3,6 @@
 ## 👋 About Me  
 Hello! I'm *Saksham Maurya*, a passionate developer with a strong foundation in **programming, web development, and data science**. I love **solving complex problems**, building **real-world solutions**, and continuously learning to improve my skills. 🚀 
 
-## 👁️ Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham3232&label=Profile%20views&color=0e75b6&style=flat" alt="saksham3232" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-maurya-3feb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshammaurya3232@gmail.com) [![LeetCode](https://img.shields.io/badge/-LeetCode-white?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/sakshamIQ/) [![HackerRank](https://img.shields.io/badge/-HackerRank-white?style=flat-square&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/sakshammaurya678) [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat-square&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/sakshammacdz4/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maisakshamhoo) 

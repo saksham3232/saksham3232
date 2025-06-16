@@ -51,19 +51,17 @@ Hello! I'm *Saksham Maurya*, a passionate developer with a strong foundation in 
 - 📜 Certified in *Java (Basic)* by HackerRank  
 - 🏅 Completed *Accenture Job Simulation - Data Analytics & Visualization* on Forage  
 - 🏅 Completed *Accenture Job Simulation* on Forage  
-- 🧩 Solved **700+ problems** on *LeetCode* and *GeeksforGeeks* with the *Striver A2Z DSA Sheet*  
+- 🧩 Solved **400+ problems** on *LeetCode* and *GeeksforGeeks* with the *Striver A2Z DSA Sheet*  
 - 🎯 *TCS CodeVita Participant*  
 
 ---
 
 ## 🛠 Projects  
-- **Responsive Portfolio Website**: 🌟 Showcasing my skills, projects, and resume with a **light-themed, modern UI**  
-- **Currency Converter**: 💱 A user-friendly, real-time currency conversion tool  
-- **StudySync Website**: 📖 A platform for **streamlined study sessions**  
-- **Image Gallery**: 🖼 Created during an **internship** using HTML, CSS, and JavaScript  
-- **Calculator**: ➕ Fully functional, built with **HTML, CSS, and JavaScript**  
-- **Music Player**: 🎵 Developed during an internship to enhance **JavaScript proficiency**  
-- **Data Science Projects**: 📊 Working on **Machine Learning & NLP projects**  
+- **Currency Converter** 💱: Real-time, user-friendly currency conversion tool with up-to-date exchange rates.  
+- **Data Science Projects** 📊:  
+  - **Uber Trips Data Analysis** 🚕: Exploratory data analysis on Uber trip data using Python.  
+  - **Credit Card Fraud Detection** 💳🚨: Identifying fraudulent transactions using machine learning algorithms.  
+  - **IPL Score Prediction** 🏏🤖: Predicting IPL match scores using deep learning techniques.    
 
 ---
 
@@ -81,8 +79,6 @@ Hello! I'm *Saksham Maurya*, a passionate developer with a strong foundation in 
 - 💡 *#100DaysOfCode Challenge:* **Progressing through advanced projects**  
 - 🎓 *Data Science Learning:* Exploring **Machine Learning, Deep Learning, and NLP**  
 - 📘 *JavaScript Learning Challenge:* Following along with **"Chai Aur Code"** series  
-- 🔍 *Competitive Programming:* Actively solving **advanced DSA problems**  
-- 🎮 *Game Concept Design:* Developing a **C++ game** to teach **programming concepts**  
 - 🤖 *AI & ML Experiments:* Implementing **machine learning models and deep learning projects**  
 
 ---

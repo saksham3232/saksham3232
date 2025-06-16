@@ -14,6 +14,13 @@ Hello! I'm *Saksham Maurya*, a passionate developer with a strong foundation in 
 
 
 
+<h2>🏅 My LeetCode Badge Collection</h2>
+
+<p>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sakshamIQ&animated=true&border=no-border&theme=dark" alt="LeetCode Badges" />
+</p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saksham3232&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saksham3232&theme=dark&hide_border=false)<br/>

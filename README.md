@@ -38,10 +38,15 @@ Hello! I'm *Saksham Maurya*, a passionate developer with a strong foundation in 
 
 ## 💻 Skills  
 - **Programming Languages**: 🖥 C, C++, Python, Java, JavaScript  
-- **Web Development**: 🌐 HTML, CSS, JavaScript, Flask, Streamlit  
-- **Data Science & Machine Learning**: 📊 Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
-- **Data Structures and Algorithms**: 📚 Proficient in problem-solving, optimal approaches, and competitive programming  
-- **Tools & Platforms**: 🔧 VS Code, Git, GitHub, Jupyter Notebook, Docker, CodeChef, LeetCode, GeeksforGeeks  
+- **Frontend Web Development**: 🌐 HTML, CSS, JavaScript, Responsive Design, DOM Manipulation  
+- **Backend Development**: ⚙️ Flask, Streamlit
+- **Data Science & Machine Learning**: 📊 Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost, TensorFlow, Keras, NLP  
+- **Data Analysis & Visualization**: 📈 Exploratory Data Analysis (EDA), Feature Engineering, Model Evaluation, MLFlow  
+- **Dev Tools & Platforms**: 🔧 VS Code, Git, GitHub, Jupyter Notebook, Docker, Anaconda  
+- **Cloud & Deployment**: ☁️ AWS *(basic)  
+- **DSA**: 🧠 Proficient with **Striver A2Z DSA Sheet**, solving problems on **LeetCode, GeeksforGeeks**
+
+---
 
 ---
 
@@ -75,13 +80,6 @@ Hello! I'm *Saksham Maurya*, a passionate developer with a strong foundation in 
 
 ---
 
-## 🚀 Current Endeavors  
-- 💡 *#100DaysOfCode Challenge:* **Progressing through advanced projects**  
-- 🎓 *Data Science Learning:* Exploring **Machine Learning, Deep Learning, and NLP**  
-- 📘 *JavaScript Learning Challenge:* Following along with **"Chai Aur Code"** series  
-- 🤖 *AI & ML Experiments:* Implementing **machine learning models and deep learning projects**  
-
----
 
 ## 📞 Contact Me  
 - 📧 **Email**: sakshammaurya3232@gmail.com  

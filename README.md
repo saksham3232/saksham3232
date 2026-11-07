@@ -12,11 +12,11 @@ Hello! I'm *Saksham Maurya*, a passionate developer with a strong foundation in 
 
 
 
-<h2>🏅 My LeetCode Badge Collection</h2>
+<!-- <h2>🏅 My LeetCode Badge Collection</h2>
 
 <p>
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=sakshamIQ&animated=true&border=no-border&theme=dark" alt="LeetCode Badges" />
-</p>
+</p> -->
 
 
 # 📊 GitHub Stats:
